@@ -14,7 +14,7 @@ p {
   margin-left: 75px;
   margin-right: 620px;
   font-size: 80px;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
   padding: 20px;
 }
 
@@ -23,7 +23,7 @@ p {
   margin-left: 75px;
   margin-right: 300px;
   font-size: 25px;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.8);
   padding: 20px;
   line-height: 1.6;
 }
