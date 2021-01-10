@@ -3,3 +3,25 @@ p {
   font-family: "Montserrat", sans-serif;
   color: white;
 }
+
+.s1 {
+  background: url("images/china.jpg");
+  background-size: cover;
+  h1 {
+    text-align: left;
+    margin-left: 75px;
+    margin-right: 620px;
+    font-size: 80px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+  }
+  p {
+    text-align: left;
+    margin-left: 75px;
+    margin-right: 300px;
+    font-size: 25px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    line-height: 1.6;
+  }
+}
