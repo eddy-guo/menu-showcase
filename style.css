@@ -1,0 +1,105 @@
+h1,
+p {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+
+.s1 {
+  background: url("images/china.jpg");
+  background-size: cover;
+}
+
+.s1 h1 {
+  text-align: left;
+  margin-left: 75px;
+  margin-right: 620px;
+  font-size: 80px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+}
+
+.s1 p {
+  text-align: left;
+  margin-left: 75px;
+  margin-right: 300px;
+  font-size: 25px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  line-height: 1.6;
+}
+
+.s2 {
+  background: url("images/potstickers.jpg");
+  background-size: cover;
+}
+
+.s2 h1 {
+  text-align: left;
+  margin-left: 75px;
+  margin-right: 620px;
+  font-size: 50px;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+}
+
+.s3 {
+  background: url("images/eggplant.jpg");
+  background-size: cover;
+}
+
+.s3 h1 {
+  text-align: left;
+  margin-left: 75px;
+  margin-right: 620px;
+  font-size: 50px;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+}
+
+.s4 {
+  background: url("images/porkbelly.jpg");
+  background-size: cover;
+}
+
+.s4 h1 {
+  text-align: left;
+  margin-left: 75px;
+  margin-right: 620px;
+  font-size: 50px;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+}
+
+.s5 {
+  background: url("images/sweetrice.jpg");
+  background-size: cover;
+}
+
+.s5 h1 {
+  text-align: left;
+  margin-left: 75px;
+  margin-right: 620px;
+  font-size: 50px;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+}
+
+.s6 {
+  background: url("images/camera.jpg");
+  background-size: cover;
+}
+
+.s6 h1 {
+  text-align: left;
+  margin-left: 2em;
+  font-size: 2em;
+}
+
+span {
+  background: white !important;
+}
+
+.fp-slidesNav.fp-bottom {
+  margin-left: 1em !important;
+}
+/*# sourceMappingURL=style.css.map */
