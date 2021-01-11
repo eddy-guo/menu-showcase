@@ -95,6 +95,16 @@ p {
   font-size: 2em;
 }
 
+.s6 p {
+  text-align: left;
+  margin-left: 75px;
+  margin-right: 300px;
+  font-size: 25px;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  line-height: 1.6;
+}
+
 span {
   background: white !important;
 }
